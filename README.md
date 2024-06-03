@@ -55,9 +55,9 @@
 
 <h2 align="left">Statistics</h2>
 <img align="left" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zelvios&layout=compact&theme=tokyonight" alt=Zelvios />
-<div align="center">
+<div align="left">
 <a href="https://github.com/Zelvios">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zelvios&theme=tokyonight" height="180em" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zelvios&theme=tokyonight" height="180em" />
   
 ![Snake Animation](https://raw.githubusercontent.com/Zelvios/Zelvios/output/snake.svg)  
 

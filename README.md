@@ -29,7 +29,7 @@ I am a **software developer specializing** in **back-end development**.
   <summary><b>🗄️ Databases</b></summary>
   <br>
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,sqlite&perline=3)](https://skillicons.dev)
 </details>
 
 <details open>

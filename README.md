@@ -15,14 +15,14 @@ I am a **software developer specializing** in **back-end development**.
   <summary><b>📌 Languages</b></summary>
   <br>
 
-[![My Skills](https://skillicons.dev/icons?i=rust,cs,react&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,cs,js&perline=3)](https://skillicons.dev)
 </details>
 
 <details open>
   <summary><b>📚 Libraries and Frameworks</b></summary>
   <br>
 
-[![My Skills](https://skillicons.dev/icons?i=vue,dotnet,html,css,bootstrap&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,dotnet,html,css,bootstrap,react&perline=3)](https://skillicons.dev)
 </details>
 
 <details open>

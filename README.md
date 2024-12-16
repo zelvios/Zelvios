@@ -1,7 +1,7 @@
 # 📗 About me
 
 Hello, my name is **Jacob**.
-I am a **software developer specializing** in **back-end development**.
+I am a **software developer specializing** in **front-end development**.
 
 
 ## 📫 Contact

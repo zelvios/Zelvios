@@ -28,7 +28,7 @@ I am a software development student at [TECHCOLLEGE](https://techcollege.dk/), s
 
 ### 📫 &nbsp; How to reach me:
 
-[![Mail](https://img.shields.io/badge/Gmail-FF5722?style=flat&logo=Gmail&logoColor=white)](mailto:contact@jacob-j.com) &nbsp;&nbsp;&nbsp;
+[![Mail](https://img.shields.io/badge/Mail-FF5722?style=flat&logo=Gmail&logoColor=white)](mailto:contact@jacob-j.com) &nbsp;&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jacob-j-in/) &nbsp;&nbsp;&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=todoist&logoColor=white)](https://jacob-j.com/)
 

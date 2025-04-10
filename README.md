@@ -1,13 +1,16 @@
+<h2 align="center"> ━━━━━━━━  ❖  ━━━━━━━━ </h2>
+
 <div align=center>
   <a href="https://jacob-j.com">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono+&pause=1000&color=89B4FA&width=435&lines=Hey!+I'm+Jacob;Welcome+to+my+Profile!" alt="Typing SVG" />
   </a>
   
 I am a software development student at TECHCOLLEGE, specializing in full-stack development, with a personal focus on backend technologies
+
+🌐 Visit my **[portfolio website](https://jacob-j.com)** for more information and to get in touch. <br>
+📫 Feel free to reach out via email at: *contact@jacob-j.com*
 </div>
 
-- 🌐 Visit my **[portfolio website](https://jacob-j.com)** for more information and to get in touch.
-- 📫 Feel free to reach out via email at: *contact@jacob-j.com*
 ___
 ### 🛠 &nbsp;Tech Stack
 
